@@ -1,4 +1,5 @@
-# This work is done by Rabeb Ben Othmen, Wassim Abbessi, Sofiane Ouni , Wafa Badreddine , Gilles Dequen
+# This work is done by :
+# Rabeb Ben Othmen, Wassim Abbessi, Sofiane Ouni , Wafa Badreddine , Gilles Dequen
 # corresponding email : sofiane_ouni@yahoo.fr
 # It is inspired from the work of zhayujie  https://github.com/zhayujie/blockchain-simulator and NS3 reference Tutorials
 # --------------------------------------------------------------------------------
